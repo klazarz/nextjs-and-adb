@@ -2,6 +2,10 @@
 
 A demo next.js application that uses Oracle Autonomous Database
 
+
+APIS:
+GET https://rddainsuh6u1okc-adb.adb.us-ashburn-1.oraclecloudapps.com/ords/hr/emps/
+
 <br>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
